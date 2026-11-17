@@ -1,0 +1,7 @@
+<svg width="360" height="84" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Exemple SVG">
+  <rect x="2" y="2" width="356" height="80" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="44" cy="42" r="22" fill="#2563eb"/>
+  <text x="44" y="48" font-family="sans-serif" font-size="18" fill="#ffffff" text-anchor="middle">MD</text>
+  <text x="82" y="38" font-family="sans-serif" font-size="15" font-weight="bold" fill="#1e3a8a">Gràfic vectorial SVG a GitHub</text>
+  <text x="82" y="58" font-family="sans-serif" font-size="12" fill="#475569">Inserit com a fitxer .svg des del mateix repositori</text>
+</svg>
