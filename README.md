@@ -8,7 +8,7 @@ Repositori públic amb els exemples, plantilles, dades i materials de classe de 
 - [Proposta del 1r trimestre (PDF)](00-enquadrament/proposta-1r-trimestre_1bat-prog.pdf)
 
 ### `01-markdown/`
-- [Guia completa de Markdown](01-markdown/markdown_complet.md) — text, llistes, cites, GitHub Alerts, taules, **CSV**, **TSV**, múltiples llenguatges, LaTeX, Mermaid, HTML i emojis.
+- [Guia completa de Markdown](01-markdown/markdown_complet.md)
 
 ### `02-pensament-computacional/`
 - [Fitxa de pensament computacional (PDF)](02-pensament-computacional/pensament-computacional_1bat-prog.pdf)
@@ -18,13 +18,11 @@ Repositori públic amb els exemples, plantilles, dades i materials de classe de 
 - [Dossier: Funcions condicionals](03-google-sheets/funcions-condicionals_1bat-prog.md)
 - [Fitxa: Llegir documentació de funcions (PDF)](03-google-sheets/llegir-documentacio-funcions_1bat-prog.pdf)
 - [Fitxa: Pràctica d'expressions regulars (PDF)](03-google-sheets/practica-regex_1bat-prog.pdf)
-- **Lliga de robots — Sessió 3** (`lliga-robots-s03/`):
-  - [Enunciat](03-google-sheets/lliga-robots-s03/enunciat_alumnes_s03.md)
-  - [Dades jornada 1 (`CSV`)](03-google-sheets/lliga-robots-s03/lliga_robots_jornada1.csv)
-- **Lliga de robots — Missió 2** (`lliga-robots-missio2/`):
-  - [Enunciat](03-google-sheets/lliga-robots-missio2/enunciat_alumnes_missio2.md)
-  - [Categories oficials (`TSV`)](03-google-sheets/lliga-robots-missio2/categories_oficials.tsv)
-  - [Plantilla de funcions](03-google-sheets/lliga-robots-missio2/plantilla_funcions.md)
+- [Lliga de robots S03: Enunciat](03-google-sheets/lliga-robots-s03/enunciat_alumnes_s03.md)
+- [Lliga de robots S03: Dades jornada 1 (CSV)](03-google-sheets/lliga-robots-s03/lliga_robots_jornada1.csv)
+- [Lliga de robots Missió 2: Enunciat](03-google-sheets/lliga-robots-missio2/enunciat_alumnes_missio2.md)
+- [Lliga de robots Missió 2: Categories oficials (TSV)](03-google-sheets/lliga-robots-missio2/categories_oficials.tsv)
+- [Lliga de robots Missió 2: Plantilla de funcions](03-google-sheets/lliga-robots-missio2/plantilla_funcions.md)
 
 ### `04-repas/`
 - [Checklist de continguts (PDF)](04-repas/checklist-continguts_1bat-prog.pdf)
