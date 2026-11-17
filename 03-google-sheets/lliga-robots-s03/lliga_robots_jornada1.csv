@@ -1,0 +1,49 @@
+id,data,ronda,jutge,equip,robot,categoria,hora_inici,hora_fi,temps_volta_s,voltatge_V,pes_g,cost_eur,estat,observacions
+J1-001,2026-09-18,1,Jordi,Els Servomotors,Rayo,Seguidor de línia,09:02:32,09:04:01,23.04,8.33,633,18.58,OK,
+J1-002,2026-09-18,1,Marta,Pol Positiu,Ió,Seguidor de línia,09:10:39,09:12:17,,7.88,1291,30.66,DSQ,Sortida abans del senyal
+J1-003,2026-09-18,1,Núria,Sensors & Co,Llamp,Seguidor de línia,09:15:04,09:16:52,31.55,7.57,428,47.70,OK,"Bateria justa, ha anat baixant"
+J1-004,2026-09-18,1,Marta,Robòtica Maresme,Toc-Toc,Seguidor de línia,09:23:20,09:25:17,22.82,7.90,687,72.94,OK,Molt net
+J1-005,2026-09-18,1,Núria,Les Rodes Quadrades,Cub,Seguidor de línia,09:27:59,09:29:48,27.29,7.99,1033,84.22,OK,Molt net
+J1-006,2026-09-18,1,Marta,Team Arduino,Nano,Seguidor de línia,09:34:23,09:36:26,27.96,7.04,640,94.34,OK,"Bateria justa, ha anat baixant"
+J1-007,2026-09-18,1,Jordi,Cable Suelto,Sprint-3,Seguidor de línia,09:40:30,09:42:14,28.20,7.61,1104,46.40,OK,
+J1-008,2026-09-18,1,Núria,Error 404,Not Found,Seguidor de línia,09:46:00,09:47:45,22.55,7.96,748,46.10,OK,Ha tallat una corba
+J1-009,2026-09-18,1,Núria,Els Servomotors,Rayo,Laberint,09:51:20,09:54:23,117.54,8.22,473,36.22,OK,Sortida perfecta
+J1-010,2026-09-18,1,Marta,Sensors & Co,Llamp,Laberint,09:57:35,10:00:10,69.07,6.90,791,79.87,OK,"Ha tocat la paret, però continua"
+J1-011,2026-09-18,1,Marta,Circuit Tancat,Volta,Laberint,10:05:54,10:08:00,86.18,7.04,784,69.97,OK,
+J1-012,2026-09-18,1,Marta,Cable Suelto,Sprint-3,Laberint,10:13:07,10:15:18,,7.29,454,39.34,DNF,S'ha sortit de la línia
+J1-013,2026-09-18,1,Núria,Pol Positiu,Ió,Laberint,10:19:40,10:22:44,,8.07,998,61.31,DNF,"Roda solta, ha abandonat"
+J1-014,2026-09-18,1,Núria,Les Rodes Quadrades,Cub,Laberint,10:25:24,10:28:43,96.48,7.56,987,73.47,OK,
+J1-015,2026-09-18,1,Núria,Error 404,Not Found,Laberint,10:33:56,10:37:13,,8.07,547,89.91,DNF,S'ha sortit de la línia
+J1-016,2026-09-18,1,Jordi,Team Arduino,Nano,Laberint,10:40:50,10:43:38,94.35,7.45,383,29.92,OK,Molt net
+J1-017,2026-09-18,1,Marta,Cable Suelto,Sprint-3,Velocitat,10:47:07,10:48:07,6.16,8.34,744,66.54,OK,Ha tallat una corba
+J1-018,2026-09-18,1,Marta,Error 404,Not Found,Velocitat,10:53:56,10:55:53,9.01,7.61,516,64.16,OK,"Bateria justa, ha anat baixant"
+J1-019,2026-09-18,1,Jordi,Les Rodes Quadrades,Cub,Velocitat,11:00:57,11:01:59,11.32,7.40,961,51.19,OK,Ha tallat una corba
+J1-020,2026-09-18,1,Marta,Sensors & Co,Llamp,Velocitat,11:08:35,11:09:43,,8.10,700,47.41,DNF,"Roda solta, ha abandonat"
+J1-021,2026-09-18,1,Marta,Bits de Mar,Gavina,Velocitat,11:13:47,11:14:38,8.97,7.55,636,70.71,OK,
+J1-022,2026-09-18,1,Jordi,Els Servomotors,Rayo,Velocitat,11:17:16,11:19:08,,7.70,1016,23.22,DNF,"Roda solta, ha abandonat"
+J1-023,2026-09-18,1,Marta,Pol Positiu,Ió,Velocitat,11:22:58,11:24:39,11.64,7.78,714,58.93,OK,"Ha tocat la paret, però continua"
+J1-024,2026-09-18,1,Núria,Team Arduino,Nano,Velocitat,11:27:51,11:29:16,10.68,8.32,939,70.36,OK,Molt net
+J1-025,2026-09-18,2,Marta,Circuit Tancat,Volta,Seguidor de línia,11:33:29,11:34:46,24.95,7.11,1035,31.00,OK,Molt net
+J1-026,2026-09-18,2,Núria,Bits de Mar,Gavina,Seguidor de línia,11:38:43,11:40:47,28.03,7.70,1047,79.20,OK,Molt net
+J1-027,2026-09-18,2,Núria,Error 404,Not Found,Seguidor de línia,11:46:36,11:48:38,25.69,8.09,846,66.15,OK,Sortida perfecta
+J1-028,2026-09-18,2,Núria,Els Servomotors,Rayo,Seguidor de línia,11:55:04,11:56:43,,7.03,424,87.71,DNF,Bateria esgotada
+J1-029,2026-09-18,2,Marta,Cable Suelto,Sprint-3,Seguidor de línia,11:59:25,12:01:20,17.71,7.20,768,29.64,OK,
+J1-030,2026-09-18,2,Marta,Robòtica Maresme,Toc-Toc,Seguidor de línia,12:04:32,12:05:48,30.63,7.18,1131,23.46,OK,Sortida perfecta
+J1-031,2026-09-18,2,Marta,Les Rodes Quadrades,Cub,Seguidor de línia,12:11:24,12:13:08,,7.02,1003,19.22,DNF,S'ha sortit de la línia
+J1-032,2026-09-18,2,Jordi,Pol Positiu,Ió,Seguidor de línia,12:16:28,12:18:03,24.26,7.09,997,69.62,OK,"Bateria justa, ha anat baixant"
+J1-033,2026-09-18,2,Marta,Bits de Mar,Gavina,Laberint,12:20:33,12:23:53,,8.39,631,87.01,DNF,Bateria esgotada
+J1-034,2026-09-18,2,Jordi,Sensors & Co,Llamp,Laberint,12:27:08,12:29:25,71.23,7.34,762,53.31,OK,"Ha tocat la paret, però continua"
+J1-035,2026-09-18,2,Núria,Cable Suelto,Sprint-3,Laberint,12:32:52,12:35:37,60.71,8.08,570,20.90,OK,Sortida perfecta
+J1-036,2026-09-18,2,Jordi,Circuit Tancat,Volta,Laberint,12:40:58,12:43:16,93.82,8.09,917,64.03,OK,Sortida perfecta
+J1-037,2026-09-18,2,Jordi,Les Rodes Quadrades,Cub,Laberint,12:48:57,12:52:34,117.17,7.30,786,24.14,OK,
+J1-038,2026-09-18,2,Jordi,Team Arduino,Nano,Laberint,12:56:09,12:58:38,,8.29,747,55.59,DSQ,Sortida abans del senyal
+J1-039,2026-09-18,2,Jordi,Robòtica Maresme,Toc-Toc,Laberint,13:01:23,13:03:42,79.40,7.06,828,36.67,OK,"Bateria justa, ha anat baixant"
+J1-040,2026-09-18,2,Jordi,Error 404,Not Found,Laberint,13:06:41,13:08:59,82.35,8.00,916,57.33,OK,
+J1-041,2026-09-18,2,Núria,Circuit Tancat,Volta,Velocitat,13:11:51,13:12:44,,8.18,570,68.07,DNF,Bateria esgotada
+J1-042,2026-09-18,2,Marta,Els Servomotors,Rayo,Velocitat,13:18:34,13:19:47,8.23,8.34,784,81.24,OK,Molt net
+J1-043,2026-09-18,2,Jordi,Pol Positiu,Ió,Velocitat,13:23:43,13:25:12,11.80,7.68,935,60.34,OK,
+J1-044,2026-09-18,2,Núria,Les Rodes Quadrades,Cub,Velocitat,13:28:18,13:29:15,10.00,7.04,576,25.65,OK,
+J1-045,2026-09-18,2,Núria,Error 404,Not Found,Velocitat,13:31:57,13:32:55,7.37,7.07,401,73.25,OK,"Ha tocat la paret, però continua"
+J1-046,2026-09-18,2,Jordi,Sensors & Co,Llamp,Velocitat,13:37:25,13:38:30,11.48,8.02,787,31.26,OK,
+J1-047,2026-09-18,2,Marta,Team Arduino,Nano,Velocitat,13:45:27,13:47:20,8.61,7.91,830,40.54,OK,
+J1-048,2026-09-18,2,Jordi,Robòtica Maresme,Toc-Toc,Velocitat,13:51:33,13:53:24,10.68,7.09,476,72.29,OK,"Ha tocat la paret, però continua"
